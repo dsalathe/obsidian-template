@@ -42,3 +42,16 @@ About the PACMAN structure, the idea is the following:
 4. **Mastery**: Related to Concepts, but are more thought of being something active you want to master. More info at [[README - 4 Mastery]].
 5. **Archives**: Keep you Projects folder clean and neat. Everything not active anymore should be dragged to Archives. More info at [[README - 5 Archives]]
 6. **Notations**: Everything that is not directly related to your second brain, but related to the tool you are using. Here it is Obsidian, but the day you migrate your tool, you usually want to migrate everything from 1 to 5, but not the sixth folder: Notations.
+
+---
+
+## Getting Started
+
+Very few steps:
+1. Install Obsidian.
+2. Clone or download the zip of this template.
+3. Open Obsidian.
+4. Click on `open another vault` and select the root folder of this template project.
+5. If you trust the author (me), say you do and all pre-installed plugins I found minimal to be productive will be activated.
+
+Enjoy!
