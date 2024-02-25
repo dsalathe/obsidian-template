@@ -1,0 +1,59 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "README - 5 Archives",
+      "path": "5 Archives/README - 5 Archives.md"
+    },
+    {
+      "basename": "README - 4 Mastery",
+      "path": "4 Mastery/README - 4 Mastery.md"
+    },
+    {
+      "basename": "README - 3 Concepts - People",
+      "path": "3 Concepts/People/README - 3 Concepts - People.md"
+    },
+    {
+      "basename": "README - 3 Concepts - Definitions",
+      "path": "3 Concepts/Definitions/README - 3 Concepts - Definitions.md"
+    },
+    {
+      "basename": "Definitions",
+      "path": "6 Notations/templates/Definitions.md"
+    },
+    {
+      "basename": "README - 2 Agenda",
+      "path": "2 Agenda/README - 2 Agenda.md"
+    },
+    {
+      "basename": "README - 1 Projects",
+      "path": "1 Projects/README - 1 Projects.md"
+    },
+    {
+      "basename": "Daily",
+      "path": "6 Notations/templates/Daily.md"
+    },
+    {
+      "basename": "Meeting",
+      "path": "6 Notations/templates/Meeting.md"
+    },
+    {
+      "basename": "People",
+      "path": "6 Notations/templates/People.md"
+    },
+    {
+      "basename": "Project",
+      "path": "6 Notations/templates/Project.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "6 Notations/templates/Tools.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

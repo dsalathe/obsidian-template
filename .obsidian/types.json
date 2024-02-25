@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "birthday": "date",
+    "tech stack": "multitext",
+    "personal start date": "date",
+    "personal end date": "date",
+    "people": "multitext",
+    "company": "text",
+    "last updated": "date",
+    "expertise": "number"
+  }
+}
