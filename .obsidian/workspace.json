@@ -12,24 +12,16 @@
             "id": "7164404b200d1ef2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Agenda/2024-02-26.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "1a9fddabd17bcb25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Mastery/Tools/PowerBI.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -38,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Notations/templates/Tools.md",
+                "file": "6 Notations/templates/Meeting.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,24 +40,16 @@
             "id": "6b4166affd1a77ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/Espace Courtiers/Meetings/2024-02-26 EventStorming.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "3d989e8cd05078a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Projects/Nuage/Meetings/2024-02-26 Weekly.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -117,7 +101,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "6 Notations/templates/Tools.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -213,7 +196,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 Notations/templates/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 Notations/templates/Tools.md"
+                "file": "1 Projects/hello/Meetings/2024-02-26 hola.md"
               }
             }
           },
@@ -268,16 +250,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95cc7c4eb42ac45f",
+  "active": "79cef0a078ba32e1",
   "lastOpenFiles": [
-    "6 Notations/templates/Project.md",
-    "6 Notations/templates/People.md",
+    "1 Projects/hello/Meetings",
+    "1 Projects/hello/hello.md",
+    "1 Projects/hello/Meetings/2024-02-26 hola.md",
+    "1 Projects/hello",
     "6 Notations/templates/Meeting.md",
-    "6 Notations/templates/Definitions.md",
+    "6 Notations/templates/People.md",
+    "6 Notations/templates/Project.md",
+    "6 Notations/templates/Tools.md",
     "6 Notations/templates/Daily.md",
+    "6 Notations/templates/Definitions.md",
+    "1 Projects/exampleProject/Meetings/2024-02-26 weekly.md",
+    "1 Projects/exampleProject/Meetings",
+    "1 Projects/exampleProject/exampleProject.md",
+    "1 Projects/exampleProject",
+    "2 Agenda/2024-02-26.md",
     "3 Concepts/Definitions/Delta Lake.md",
     "4 Mastery/Tools/PowerBI.md",
-    "2 Agenda/2024-02-26.md",
     "1 Projects/Nuage/Meetings/2024-02-26 Weekly.md",
     "3 Concepts/People/Vadzim Yermakou.md",
     "1 Projects/Espace Courtiers/Meetings/2024-02-26 EventStorming.md",
@@ -290,22 +281,13 @@
     "1 Projects/Obsidian template/Meetings/2024-02-26 hello.md",
     "1 Projects/Obsidian template/Meetings/2024-02-26 Weekly.md",
     "1 Projects/Obsidian template/Meetings/2024-02-26 Untitled.md",
-    "1 Projects/Obsidian template/Meetings/2024-02-26 Preparation Presentation.md",
-    "1 Projects/Obsidian template/Meetings/2024-02-26 Salut.md",
-    "1 Projects/Brownbag - Archunit/Meetings/2024-02-28 Weekly.md",
-    "2 Agenda/2024-02-22.md",
-    "1 Projects/Brownbag - Archunit/Meetings/2024-02-26 Hello.md",
     "1 Projects/Brownbag - Archunit/Meetings",
-    "1 Projects/Obsidian template/Meetings/2024-02-26 Daily.md",
     "1 Projects/Obsdian template/Meetings",
     "1 Projects/Obsdian template",
     "1 Projects/Obsidian template/Meetings",
     "1 Projects/undefined/Meetings",
     "1 Projects/undefined",
     "1 Projects/Obsidian template",
-    "1 Projects/Espace Courtiers/Meetings",
-    "1 Projects/DPaaS/Meetings",
-    "1 Projects/DPaaS",
     "6 Notations/images/Pasted image 20240213095315.png",
     "Untitled.canvas",
     "6 Notations/images/Pasted image 20240129183005.png"

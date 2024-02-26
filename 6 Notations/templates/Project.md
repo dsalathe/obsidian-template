@@ -3,8 +3,7 @@ company:
 personal start date: 
 personal end date: 
 tech stack: 
-people:
-  - "[[David Salathé]]"
+people: []
 aliases: 
 tags:
 ---
