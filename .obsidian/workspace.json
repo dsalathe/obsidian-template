@@ -9,91 +9,67 @@
         "dimension": 72.06020696142993,
         "children": [
           {
-            "id": "21d0c71a06e8f052",
+            "id": "7164404b200d1ef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Agenda/README - 2 Agenda.md",
+                "file": "2 Agenda/2024-02-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8632bc97bc87375b",
+            "id": "1a9fddabd17bcb25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Agenda/README - 2 Agenda.md",
+                "file": "4 Mastery/Tools/PowerBI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "74708a515d35467c",
+            "id": "95cc7c4eb42ac45f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Concepts/Definitions/README - 3 Concepts - Definitions.md",
+                "file": "6 Notations/templates/Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6990739b6ee19400",
+            "id": "6b4166affd1a77ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Concepts/People/README - 3 Concepts - People.md",
+                "file": "1 Projects/Espace Courtiers/Meetings/2024-02-26 EventStorming.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3a06c42634c1ee80",
+            "id": "3d989e8cd05078a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Mastery/README - 4 Mastery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a9a9712634f8f0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Archives/README - 5 Archives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "092258c4ab6846d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "1 Projects/Nuage/Meetings/2024-02-26 Weekly.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "0a83fa1138271ba9",
@@ -141,7 +117,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "README.md",
+                    "file": "6 Notations/templates/Tools.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -237,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "6 Notations/templates/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "6 Notations/templates/Tools.md"
               }
             }
           },
@@ -292,44 +268,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "092258c4ab6846d8",
+  "active": "95cc7c4eb42ac45f",
   "lastOpenFiles": [
-    "5 Archives/README - 5 Archives.md",
-    "README.md",
-    "4 Mastery/README - 4 Mastery.md",
-    "3 Concepts/People/README - 3 Concepts - People.md",
-    "3 Concepts/Definitions/README - 3 Concepts - Definitions.md",
-    "6 Notations/templates/Definitions.md",
-    "2 Agenda/README - 2 Agenda.md",
-    "2 Agenda/2024-02-25.md",
-    "1 Projects/README - 1 Projects.md",
-    "2 Agenda/2024-01-16.md",
-    "3 Concepts/Definitions/Azure Virtual Desktop.md",
-    "3 Concepts/People/Bianca Petrignani.md",
-    "3 Concepts/People/Benjamin Audren.md",
-    "4 Mastery/Tools/Python.md",
-    "4 Mastery/Tools/Databricks.md",
-    "4 Mastery/Tools/Azure DevOps.md",
-    "6 Notations/templates/Daily.md",
-    "6 Notations/templates/Meeting.md",
-    "6 Notations/templates/People.md",
     "6 Notations/templates/Project.md",
-    "6 Notations/templates/Tools.md",
-    "3 Concepts/Definitions/Data Engineering.md",
-    "3 Concepts/Definitions/Lakehouse.md",
-    "3 Concepts/Definitions/Elca.md",
-    "3 Concepts/People/Nicolas Jomeau.md",
+    "6 Notations/templates/People.md",
+    "6 Notations/templates/Meeting.md",
+    "6 Notations/templates/Definitions.md",
+    "6 Notations/templates/Daily.md",
+    "3 Concepts/Definitions/Delta Lake.md",
+    "4 Mastery/Tools/PowerBI.md",
+    "2 Agenda/2024-02-26.md",
+    "1 Projects/Nuage/Meetings/2024-02-26 Weekly.md",
+    "3 Concepts/People/Vadzim Yermakou.md",
+    "1 Projects/Espace Courtiers/Meetings/2024-02-26 EventStorming.md",
+    "3 Concepts/Definitions/Event Storming.md",
+    "3 Concepts/People/Benjamin Audren.md",
     "3 Concepts/People/Loïs Bilat.md",
-    "1 Projects/Espace Courtiers/Meetings",
+    "3 Concepts/People/Nicolas Jomeau.md",
+    "2024-02-26.md",
+    "Untitled.md",
+    "1 Projects/Obsidian template/Meetings/2024-02-26 hello.md",
+    "1 Projects/Obsidian template/Meetings/2024-02-26 Weekly.md",
+    "1 Projects/Obsidian template/Meetings/2024-02-26 Untitled.md",
+    "1 Projects/Obsidian template/Meetings/2024-02-26 Preparation Presentation.md",
+    "1 Projects/Obsidian template/Meetings/2024-02-26 Salut.md",
+    "1 Projects/Brownbag - Archunit/Meetings/2024-02-28 Weekly.md",
+    "2 Agenda/2024-02-22.md",
+    "1 Projects/Brownbag - Archunit/Meetings/2024-02-26 Hello.md",
+    "1 Projects/Brownbag - Archunit/Meetings",
+    "1 Projects/Obsidian template/Meetings/2024-02-26 Daily.md",
+    "1 Projects/Obsdian template/Meetings",
+    "1 Projects/Obsdian template",
+    "1 Projects/Obsidian template/Meetings",
     "1 Projects/undefined/Meetings",
     "1 Projects/undefined",
+    "1 Projects/Obsidian template",
+    "1 Projects/Espace Courtiers/Meetings",
     "1 Projects/DPaaS/Meetings",
     "1 Projects/DPaaS",
-    "1 Projects/Migration java 21 RP/Meetings",
-    "1 Projects/Migration java 21 RP",
-    "1 Projects/Nuage/Meetings",
-    "1 Projects/Untitled",
-    "1 Projects/BIBD/Meetings",
     "6 Notations/images/Pasted image 20240213095315.png",
     "Untitled.canvas",
     "6 Notations/images/Pasted image 20240129183005.png"

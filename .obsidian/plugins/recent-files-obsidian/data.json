@@ -1,56 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "README - 5 Archives",
-      "path": "5 Archives/README - 5 Archives.md"
-    },
-    {
-      "basename": "README - 4 Mastery",
-      "path": "4 Mastery/README - 4 Mastery.md"
-    },
-    {
-      "basename": "README - 3 Concepts - People",
-      "path": "3 Concepts/People/README - 3 Concepts - People.md"
-    },
-    {
-      "basename": "README - 3 Concepts - Definitions",
-      "path": "3 Concepts/Definitions/README - 3 Concepts - Definitions.md"
-    },
-    {
-      "basename": "Definitions",
-      "path": "6 Notations/templates/Definitions.md"
-    },
-    {
-      "basename": "README - 2 Agenda",
-      "path": "2 Agenda/README - 2 Agenda.md"
-    },
-    {
-      "basename": "README - 1 Projects",
-      "path": "1 Projects/README - 1 Projects.md"
-    },
-    {
-      "basename": "Daily",
-      "path": "6 Notations/templates/Daily.md"
-    },
-    {
-      "basename": "Meeting",
-      "path": "6 Notations/templates/Meeting.md"
-    },
-    {
-      "basename": "People",
-      "path": "6 Notations/templates/People.md"
+      "basename": "Tools",
+      "path": "6 Notations/templates/Tools.md"
     },
     {
       "basename": "Project",
       "path": "6 Notations/templates/Project.md"
     },
     {
-      "basename": "Tools",
-      "path": "6 Notations/templates/Tools.md"
+      "basename": "People",
+      "path": "6 Notations/templates/People.md"
+    },
+    {
+      "basename": "Meeting",
+      "path": "6 Notations/templates/Meeting.md"
+    },
+    {
+      "basename": "Definitions",
+      "path": "6 Notations/templates/Definitions.md"
+    },
+    {
+      "basename": "Daily",
+      "path": "6 Notations/templates/Daily.md"
+    },
+    {
+      "basename": "Delta Lake",
+      "path": "3 Concepts/Definitions/Delta Lake.md"
+    },
+    {
+      "basename": "PowerBI",
+      "path": "4 Mastery/Tools/PowerBI.md"
+    },
+    {
+      "basename": "2024-02-26",
+      "path": "2 Agenda/2024-02-26.md"
+    },
+    {
+      "basename": "2024-02-26 Weekly",
+      "path": "1 Projects/Nuage/Meetings/2024-02-26 Weekly.md"
+    },
+    {
+      "basename": "Vadzim Yermakou",
+      "path": "3 Concepts/People/Vadzim Yermakou.md"
+    },
+    {
+      "basename": "2024-02-26 EventStorming",
+      "path": "1 Projects/Espace Courtiers/Meetings/2024-02-26 EventStorming.md"
+    },
+    {
+      "basename": "Event Storming",
+      "path": "3 Concepts/Definitions/Event Storming.md"
+    },
+    {
+      "basename": "Benjamin Audren",
+      "path": "3 Concepts/People/Benjamin Audren.md"
+    },
+    {
+      "basename": "Loïs Bilat",
+      "path": "3 Concepts/People/Loïs Bilat.md"
+    },
+    {
+      "basename": "Nicolas Jomeau",
+      "path": "3 Concepts/People/Nicolas Jomeau.md"
+    },
+    {
+      "basename": "2024-02-22",
+      "path": "2 Agenda/2024-02-22.md"
+    },
+    {
+      "basename": "Obsidian template",
+      "path": "1 Projects/Obsidian template/Obsidian template.md"
+    },
+    {
+      "basename": "2024-02-26 Sync Lois",
+      "path": "1 Projects/BIBD/Meetings/2024-02-26 Sync Lois.md"
+    },
+    {
+      "basename": "Azure DevOps",
+      "path": "4 Mastery/Tools/Azure DevOps.md"
+    },
+    {
+      "basename": "David Salathé",
+      "path": "3 Concepts/People/David Salathé.md"
+    },
+    {
+      "basename": "Sika",
+      "path": "3 Concepts/Definitions/Sika.md"
+    },
+    {
+      "basename": "Lakehouse",
+      "path": "3 Concepts/Definitions/Lakehouse.md"
+    },
+    {
+      "basename": "Azure Virtual Desktop",
+      "path": "3 Concepts/Definitions/Azure Virtual Desktop.md"
+    },
+    {
+      "basename": "2024-02-25",
+      "path": "2 Agenda/2024-02-25.md"
+    },
+    {
+      "basename": "Data Engineering",
+      "path": "3 Concepts/Definitions/Data Engineering.md"
+    },
+    {
+      "basename": "Elca",
+      "path": "3 Concepts/Definitions/Elca.md"
+    },
+    {
+      "basename": "Jean-David Maillefer",
+      "path": "3 Concepts/People/Jean-David Maillefer.md"
+    },
+    {
+      "basename": "Bianca Petrignani",
+      "path": "3 Concepts/People/Bianca Petrignani.md"
+    },
+    {
+      "basename": "DPaaS",
+      "path": "1 Projects/DPaaS/DPaaS.md"
+    },
+    {
+      "basename": "Nuage",
+      "path": "1 Projects/Nuage/Nuage.md"
+    },
+    {
+      "basename": "Brownbag - Archunit",
+      "path": "1 Projects/Brownbag - Archunit/Brownbag - Archunit.md"
+    },
+    {
+      "basename": "BIBD",
+      "path": "1 Projects/BIBD/BIBD.md"
+    },
+    {
+      "basename": "2024-02-08 Planning Documentation",
+      "path": "1 Projects/BIBD/Meetings/2024-02-08 Planning Documentation.md"
+    },
+    {
+      "basename": "2024-01-29",
+      "path": "2 Agenda/2024-01-29.md"
+    },
+    {
+      "basename": "Python",
+      "path": "4 Mastery/Tools/Python.md"
+    },
+    {
+      "basename": "TMM",
+      "path": "5 Archives/TMM/TMM.md"
+    },
+    {
+      "basename": "SmartSearch 2.0",
+      "path": "1 Projects/SmartSearch 2.0/SmartSearch 2.0.md"
+    },
+    {
+      "basename": "Databricks",
+      "path": "4 Mastery/Tools/Databricks.md"
+    },
+    {
+      "basename": "2024-02-23",
+      "path": "2 Agenda/2024-02-23.md"
+    },
+    {
+      "basename": "2024-02-22 Coordination",
+      "path": "1 Projects/DPaaS/Meetings/2024-02-22 Coordination.md"
+    },
+    {
+      "basename": "2024-02-22 Team Meeting",
+      "path": "1 Projects/BIBD/Meetings/2024-02-22 Team Meeting.md"
+    },
+    {
+      "basename": "SDLB-LSP",
+      "path": "1 Projects/SDLB-LSP/SDLB-LSP.md"
+    },
+    {
+      "basename": "2024-02-12 Brownbag",
+      "path": "1 Projects/BIBD/Meetings/2024-02-12 Brownbag.md"
+    },
+    {
+      "basename": "2024-02-16 One2One",
+      "path": "1 Projects/BIBD/Meetings/2024-02-16 One2One.md"
+    },
+    {
+      "basename": "2024-02-16",
+      "path": "2 Agenda/2024-02-16.md"
+    },
+    {
+      "basename": "2024-02-22 Catch-up Patrick",
+      "path": "1 Projects/Nuage/Meetings/2024-02-22 Catch-up Patrick.md"
+    },
+    {
+      "basename": "2024-02-22 Café",
+      "path": "1 Projects/Espace Courtiers/Meetings/2024-02-22 Café.md"
+    },
+    {
+      "basename": "2024-02-19 Weekly",
+      "path": "1 Projects/Nuage/Meetings/2024-02-19 Weekly.md"
+    },
+    {
+      "basename": "Terraform variables",
+      "path": "1 Projects/Nuage/Terraform variables.md"
     }
   ],
   "omittedPaths": [],

@@ -1,5 +1,64 @@
 {
+  "workspace:undo-close-pane": [],
+  "templater-obsidian:6 Notations/templates/Meeting.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "quickadd:choice:0e4761f6-1dbe-4b2e-b419-9422da7d768f": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "table-editor-obsidian:table-control-bar": [],
+  "quickadd:choice:9d3991d6-10f7-4004-91e5-13371683a6e7": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "templater-obsidian:6 Notations/templates/Definitions.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "quickadd:choice:da56e113-e639-4f6f-b1e3-88df09cf2d40": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
   "templater-obsidian:6 Notations/templates/People.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "quickadd:choice:ea95f906-09a7-44b0-8310-6c46af9f50e1": [
     {
       "modifiers": [
         "Mod",
@@ -11,38 +70,39 @@
   "templater-obsidian:6 Notations/templates/Project.md": [
     {
       "modifiers": [
+        "Alt",
         "Mod",
         "Shift"
       ],
       "key": "`"
     }
   ],
-  "workspace:undo-close-pane": [],
+  "quickadd:choice:62cea232-092a-4fc1-aa16-96ea5ab1b7c6": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "`"
+    }
+  ],
   "templater-obsidian:6 Notations/templates/Tools.md": [
     {
       "modifiers": [
+        "Alt",
         "Mod",
         "Shift"
       ],
       "key": "T"
     }
   ],
-  "templater-obsidian:6 Notations/templates/Definitions.md": [
+  "quickadd:choice:5f0bca75-6856-4580-a0b6-8cc6c257f2da": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "D"
-    }
-  ],
-  "templater-obsidian:6 Notations/templates/Meeting.md": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "M"
+      "key": "T"
     }
   ]
 }

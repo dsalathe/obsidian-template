@@ -1,0 +1,200 @@
+{
+  "choices": [
+    {
+      "id": "0e4761f6-1dbe-4b2e-b419-9422da7d768f",
+      "name": "Template Meeting",
+      "type": "Template",
+      "command": true,
+      "templatePath": "6 Notations/templates/Meeting.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "9d3991d6-10f7-4004-91e5-13371683a6e7",
+      "name": "Log in Daily Note",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "2 Agenda/{{date:YYYY-MM-DD}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "6 Notations/templates/Daily.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- \\[{{DATE:HH:mm}}\\] (from {{linkcurrent}})  {{value}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## Log",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "da56e113-e639-4f6f-b1e3-88df09cf2d40",
+      "name": "Template Definition",
+      "type": "Template",
+      "command": true,
+      "templatePath": "6 Notations/templates/Definitions.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "ea95f906-09a7-44b0-8310-6c46af9f50e1",
+      "name": "Template People",
+      "type": "Template",
+      "command": true,
+      "templatePath": "6 Notations/templates/People.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "62cea232-092a-4fc1-aa16-96ea5ab1b7c6",
+      "name": "Template Project",
+      "type": "Template",
+      "command": true,
+      "templatePath": "6 Notations/templates/Project.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "5f0bca75-6856-4580-a0b6-8cc6c257f2da",
+      "name": "Template Tools",
+      "type": "Template",
+      "command": true,
+      "templatePath": "6 Notations/templates/Tools.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "6 Notations/templates",
+  "announceUpdates": true,
+  "version": "1.7.0",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}
