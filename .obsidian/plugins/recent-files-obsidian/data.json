@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Definitions",
+      "path": "6 Notations/templates/Definitions.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "6 Notations/templates/Tools.md"
+    },
+    {
+      "basename": "Project",
+      "path": "6 Notations/templates/Project.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "People",
+      "path": "6 Notations/templates/People.md"
+    },
+    {
       "basename": "Meeting",
       "path": "6 Notations/templates/Meeting.md"
+    },
+    {
+      "basename": "Daily",
+      "path": "6 Notations/templates/Daily.md"
     }
   ],
   "omittedPaths": [],

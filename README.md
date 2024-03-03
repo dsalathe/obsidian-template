@@ -37,10 +37,10 @@ I think a compromise between practice and theory should be found. Many, if not a
 
 About the PACMAN structure, the idea is the following:
 1. **Projects**: the main directory with all your current projects. Usually you want to keep an eye actively on everything inside here. More info at [[README - 1 Projects]].
-2. **Agenda**: All generated dailies fall here. More info at [[README - 2 Agenda]].
+2. **Archives**: Keep you Projects folder clean and neat. Everything not active anymore should be dragged to Archives. More info at [[README - 2 Archives]]
 3. **Concepts**: Fundamental blocks of your second brain. More info at [[README - 3 Concepts - Definitions]] and [[README - 3 Concepts - People]].
 4. **Mastery**: Related to Concepts, but are more thought of being something active you want to master. More info at [[README - 4 Mastery]].
-5. **Archives**: Keep you Projects folder clean and neat. Everything not active anymore should be dragged to Archives. More info at [[README - 5 Archives]]
+5. **Agenda**: All generated dailies fall here. More info at [[README - 5 Agenda]].
 6. **Notations**: Everything that is not directly related to your second brain, but related to the tool you are using. Here it is Obsidian, but the day you migrate your tool, you usually want to migrate everything from 1 to 5, but not the sixth folder: Notations.
 
 ---

@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Notations/templates/Meeting.md",
+                "file": "6 Notations/templates/Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,6 +101,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "6 Notations/templates/Definitions.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -196,6 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6 Notations/templates/Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Projects/hello/Meetings/2024-02-26 hola.md"
+                "file": "6 Notations/templates/Definitions.md"
               }
             }
           },
@@ -250,18 +252,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79cef0a078ba32e1",
+  "active": "95cc7c4eb42ac45f",
   "lastOpenFiles": [
+    "6 Notations/templates/Tools.md",
+    "6 Notations/templates/Definitions.md",
+    "6 Notations/templates/Project.md",
+    "5 Agenda/2024-03-03.md",
+    "README.md",
+    "6 Notations/templates/People.md",
+    "6 Notations/templates/Meeting.md",
+    "6 Notations/templates/Daily.md",
     "1 Projects/hello/Meetings",
     "1 Projects/hello/hello.md",
     "1 Projects/hello/Meetings/2024-02-26 hola.md",
     "1 Projects/hello",
-    "6 Notations/templates/Meeting.md",
-    "6 Notations/templates/People.md",
-    "6 Notations/templates/Project.md",
-    "6 Notations/templates/Tools.md",
-    "6 Notations/templates/Daily.md",
-    "6 Notations/templates/Definitions.md",
     "1 Projects/exampleProject/Meetings/2024-02-26 weekly.md",
     "1 Projects/exampleProject/Meetings",
     "1 Projects/exampleProject/exampleProject.md",
@@ -280,14 +284,12 @@
     "Untitled.md",
     "1 Projects/Obsidian template/Meetings/2024-02-26 hello.md",
     "1 Projects/Obsidian template/Meetings/2024-02-26 Weekly.md",
-    "1 Projects/Obsidian template/Meetings/2024-02-26 Untitled.md",
     "1 Projects/Brownbag - Archunit/Meetings",
     "1 Projects/Obsdian template/Meetings",
     "1 Projects/Obsdian template",
     "1 Projects/Obsidian template/Meetings",
     "1 Projects/undefined/Meetings",
     "1 Projects/undefined",
-    "1 Projects/Obsidian template",
     "6 Notations/images/Pasted image 20240213095315.png",
     "Untitled.canvas",
     "6 Notations/images/Pasted image 20240129183005.png"

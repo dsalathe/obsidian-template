@@ -3,7 +3,8 @@ company:
 personal start date: 
 personal end date: 
 tech stack: 
-people: []
+people:
+  - "[[David Salathé]]"
 aliases: 
 tags:
 ---
@@ -12,9 +13,34 @@ tags:
 ## Overview & Objectives
 
 ---
+## Imputation codes
+
+| **Imputation Code** | **Explanation** |
+| ------------------- | --------------- |
+|                     |                 |
+
+---
+## Acronyms
+
+```dataview 
+TABLE WITHOUT ID
+aliases[0] as ART, file.link as "Acronym Resolution Table" FROM "3 Concepts/Definitions"
+WHERE scopes != null AND (contains(scopes, this.file.link) OR contains(scopes, this.company))
+```
+
+
+
+---
 ## Meetings
 ```dataview 
-TABLE project, kind, people FROM #Meeting
+TABLE project, kind, string(people) as people FROM #Meeting
 WHERE project = this.file.link
 ```
 ---
+
+## Points of contacts
+
+
+| **Concept** | **Person** |
+| ----------- | ---------- |
+|             |            |

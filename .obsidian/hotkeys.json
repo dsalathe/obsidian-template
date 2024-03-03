@@ -104,5 +104,14 @@
       ],
       "key": "T"
     }
+  ],
+  "quickadd:choice:783d6b01-fa4d-40d4-a7a3-0cdfa35dda98": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
   ]
 }

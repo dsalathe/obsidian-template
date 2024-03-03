@@ -28,9 +28,9 @@
     "iconIdentifier": ":"
   },
   "1 Projects": "LiMilestone",
-  "2 Agenda": "LiCalendarDays",
   "3 Concepts": "LiSparkles",
   "4 Mastery": "LiSwords",
-  "5 Archives": "LiSave",
-  "6 Notations": "LiFileCode"
+  "6 Notations": "LiFileCode",
+  "5 Agenda": "LiCalendarDays",
+  "2 Archives": "LiSave"
 }
